@@ -1,0 +1,6 @@
+This is the input file for Project 4
+This file has multiple words on a line. The words are separated with a comma, space, or period.
+As usual, there may be invlaid words that contain numb3rs or othe ju*%$nk. These words should be
+printed to the console. The words are divided into the usual grid layout cells and sorted. They
+may be sorted using any technique you want, including the TreeMap.
+This is the last project for the semester (yay!).
